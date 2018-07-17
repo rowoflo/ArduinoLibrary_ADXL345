@@ -14,7 +14,7 @@ ADXL	KEYWORD1
 
 initialize	KEYWORD2
 readAccel	KEYWORD2
-get_Gxyz KEYWORD2
+get_Gxyz	KEYWORD2
 setTapThreshold	KEYWORD2
 getTapThreshold	KEYWORD2
 setAxixGains	KEYWORD2
